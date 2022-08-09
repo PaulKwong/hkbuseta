@@ -1,0 +1,20 @@
+{
+  "name": "hkbuseta",
+  "version": "1.0.0",
+  "description": "A HK Bus ETA Web App implemented on React.js and data.gov.hk API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PaulKwong/hkbuseta.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PaulKwong/hkbuseta/issues"
+  },
+  "homepage": "https://github.com/PaulKwong/hkbuseta#readme"
+}
